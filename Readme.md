@@ -1,3 +1,7 @@
+# grunt-webfont-neo
+
+This is a fork of [grunt-webfont](https://github.com/sapegin/grunt-webfont) that aims to keep the dependencies up-to-date and take advantage of new features in the dependencies.
+
 # SVG to webfont converter for Grunt
 
 [![Powered by You](http://sapegin.github.io/powered-by-you/badge.svg)](http://sapegin.github.io/powered-by-you/)
